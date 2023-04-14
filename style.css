@@ -1,0 +1,50 @@
+*{
+    background-color: grey;
+    text-align: center;
+    
+
+}
+.game{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    margin-top: 100px;
+    
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 700px;
+
+}
+.body{
+    position: relative;
+}
+.p1{
+    top:200px;
+    position: absolute;
+    left:500px;
+    
+
+}
+.p2{
+    top: 200px;
+     position: absolute;
+     left:950px;
+
+}
+.img2{
+        right: 400px;
+        display: inline-block;
+    position: absolute;
+    top: 250px;
+
+}
+.img1{
+    left:400px;
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+
+}
